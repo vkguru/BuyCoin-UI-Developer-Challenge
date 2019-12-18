@@ -41,3 +41,17 @@ th, td {
 tbody tr:nth-of-type(odd) {
   background-color: #eee;
 }
+
+nav{
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+  background-color: #eee;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}
